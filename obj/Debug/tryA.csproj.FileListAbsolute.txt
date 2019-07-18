@@ -1,0 +1,12 @@
+C:\Users\Carlo\Desktop\LoginForm\tryA\bin\Debug\tryA.exe.config
+C:\Users\Carlo\Desktop\LoginForm\tryA\bin\Debug\tryA.exe
+C:\Users\Carlo\Desktop\LoginForm\tryA\bin\Debug\tryA.pdb
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.Form1.resources
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.Regi.resources
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.Transaction.resources
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.Form4.resources
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.Main.resources
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.Properties.Resources.resources
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.csproj.GenerateResource.Cache
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.exe
+C:\Users\Carlo\Desktop\LoginForm\tryA\obj\Debug\tryA.pdb
